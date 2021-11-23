@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/testrepo/static/css/main.fbda537d.chunk.css",
+    "main.js": "/testrepo/static/js/main.46701ee0.chunk.js",
+    "main.js.map": "/testrepo/static/js/main.46701ee0.chunk.js.map",
+    "runtime-main.js": "/testrepo/static/js/runtime-main.6d558b73.js",
+    "runtime-main.js.map": "/testrepo/static/js/runtime-main.6d558b73.js.map",
+    "static/css/2.d8cb5cde.chunk.css": "/testrepo/static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.91155be2.chunk.js": "/testrepo/static/js/2.91155be2.chunk.js",
+    "static/js/2.91155be2.chunk.js.map": "/testrepo/static/js/2.91155be2.chunk.js.map",
+    "static/js/3.d0b91ba0.chunk.js": "/testrepo/static/js/3.d0b91ba0.chunk.js",
+    "static/js/3.d0b91ba0.chunk.js.map": "/testrepo/static/js/3.d0b91ba0.chunk.js.map",
+    "index.html": "/testrepo/index.html",
+    "static/css/2.d8cb5cde.chunk.css.map": "/testrepo/static/css/2.d8cb5cde.chunk.css.map",
+    "static/css/main.fbda537d.chunk.css.map": "/testrepo/static/css/main.fbda537d.chunk.css.map",
+    "static/js/2.91155be2.chunk.js.LICENSE.txt": "/testrepo/static/js/2.91155be2.chunk.js.LICENSE.txt",
+    "static/media/header.css": "/testrepo/static/media/newfont.7c5dab01.ttf",
+    "static/media/join-community.css": "/testrepo/static/media/DickPix.be6bd296.png",
+    "static/media/about.fdcf34f9.gif": "/testrepo/static/media/about.fdcf34f9.gif",
+    "static/media/boy1.f8b76f17.png": "/testrepo/static/media/boy1.f8b76f17.png",
+    "static/media/cfo.439f1755.jpeg": "/testrepo/static/media/cfo.439f1755.jpeg",
+    "static/media/cmo.439f1755.jpeg": "/testrepo/static/media/cmo.439f1755.jpeg",
+    "static/media/cto.439f1755.jpeg": "/testrepo/static/media/cto.439f1755.jpeg",
+    "static/media/dicklogo.326fdbba.png": "/testrepo/static/media/dicklogo.326fdbba.png",
+    "static/media/fire.76eb30ed.png": "/testrepo/static/media/fire.76eb30ed.png",
+    "static/media/item1.1c214071.png": "/testrepo/static/media/item1.1c214071.png",
+    "static/media/item2.81e34ae6.png": "/testrepo/static/media/item2.81e34ae6.png",
+    "static/media/item3.eec91da6.png": "/testrepo/static/media/item3.eec91da6.png",
+    "static/media/logo.326fdbba.png": "/testrepo/static/media/logo.326fdbba.png",
+    "static/media/mint.c902929f.gif": "/testrepo/static/media/mint.c902929f.gif",
+    "static/media/roadmap.ae2c6c12.png": "/testrepo/static/media/roadmap.ae2c6c12.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d558b73.js",
+    "static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.91155be2.chunk.js",
+    "static/css/main.fbda537d.chunk.css",
+    "static/js/main.46701ee0.chunk.js"
+  ]
+}
