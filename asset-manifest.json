@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/testrepo/static/css/main.928fc414.chunk.css",
-    "main.js": "/testrepo/static/js/main.875eb41b.chunk.js",
-    "main.js.map": "/testrepo/static/js/main.875eb41b.chunk.js.map",
+    "main.css": "/testrepo/static/css/main.03e30743.chunk.css",
+    "main.js": "/testrepo/static/js/main.507ae1e4.chunk.js",
+    "main.js.map": "/testrepo/static/js/main.507ae1e4.chunk.js.map",
     "runtime-main.js": "/testrepo/static/js/runtime-main.6d558b73.js",
     "runtime-main.js.map": "/testrepo/static/js/runtime-main.6d558b73.js.map",
     "static/css/2.d8cb5cde.chunk.css": "/testrepo/static/css/2.d8cb5cde.chunk.css",
-    "static/js/2.91155be2.chunk.js": "/testrepo/static/js/2.91155be2.chunk.js",
-    "static/js/2.91155be2.chunk.js.map": "/testrepo/static/js/2.91155be2.chunk.js.map",
+    "static/js/2.dafca21d.chunk.js": "/testrepo/static/js/2.dafca21d.chunk.js",
+    "static/js/2.dafca21d.chunk.js.map": "/testrepo/static/js/2.dafca21d.chunk.js.map",
     "static/js/3.d0b91ba0.chunk.js": "/testrepo/static/js/3.d0b91ba0.chunk.js",
     "static/js/3.d0b91ba0.chunk.js.map": "/testrepo/static/js/3.d0b91ba0.chunk.js.map",
     "index.html": "/testrepo/index.html",
     "static/css/2.d8cb5cde.chunk.css.map": "/testrepo/static/css/2.d8cb5cde.chunk.css.map",
-    "static/css/main.928fc414.chunk.css.map": "/testrepo/static/css/main.928fc414.chunk.css.map",
-    "static/js/2.91155be2.chunk.js.LICENSE.txt": "/testrepo/static/js/2.91155be2.chunk.js.LICENSE.txt",
+    "static/css/main.03e30743.chunk.css.map": "/testrepo/static/css/main.03e30743.chunk.css.map",
+    "static/js/2.dafca21d.chunk.js.LICENSE.txt": "/testrepo/static/js/2.dafca21d.chunk.js.LICENSE.txt",
     "static/media/header.css": "/testrepo/static/media/newfont.7c5dab01.ttf",
     "static/media/join-community.css": "/testrepo/static/media/DickPix.be6bd296.png",
     "static/media/about.fdcf34f9.gif": "/testrepo/static/media/about.fdcf34f9.gif",
@@ -21,7 +21,7 @@
     "static/media/cfo.439f1755.jpeg": "/testrepo/static/media/cfo.439f1755.jpeg",
     "static/media/cmo.439f1755.jpeg": "/testrepo/static/media/cmo.439f1755.jpeg",
     "static/media/cto.439f1755.jpeg": "/testrepo/static/media/cto.439f1755.jpeg",
-    "static/media/dicklogo.326fdbba.png": "/testrepo/static/media/dicklogo.326fdbba.png",
+    "static/media/dicklogo.9f1ffd25.png": "/testrepo/static/media/dicklogo.9f1ffd25.png",
     "static/media/fire.76eb30ed.png": "/testrepo/static/media/fire.76eb30ed.png",
     "static/media/item1.1c214071.png": "/testrepo/static/media/item1.1c214071.png",
     "static/media/item2.81e34ae6.png": "/testrepo/static/media/item2.81e34ae6.png",
@@ -33,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.6d558b73.js",
     "static/css/2.d8cb5cde.chunk.css",
-    "static/js/2.91155be2.chunk.js",
-    "static/css/main.928fc414.chunk.css",
-    "static/js/main.875eb41b.chunk.js"
+    "static/js/2.dafca21d.chunk.js",
+    "static/css/main.03e30743.chunk.css",
+    "static/js/main.507ae1e4.chunk.js"
   ]
 }
