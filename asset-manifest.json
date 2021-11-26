@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/testrepo/static/css/main.6be527f6.chunk.css",
-    "main.js": "/testrepo/static/js/main.47794fc6.chunk.js",
-    "main.js.map": "/testrepo/static/js/main.47794fc6.chunk.js.map",
-    "runtime-main.js": "/testrepo/static/js/runtime-main.48111d6d.js",
-    "runtime-main.js.map": "/testrepo/static/js/runtime-main.48111d6d.js.map",
+    "main.css": "/testrepo/static/css/main.b57c39a5.chunk.css",
+    "main.js": "/testrepo/static/js/main.8a3ecc1e.chunk.js",
+    "main.js.map": "/testrepo/static/js/main.8a3ecc1e.chunk.js.map",
+    "runtime-main.js": "/testrepo/static/js/runtime-main.298ab170.js",
+    "runtime-main.js.map": "/testrepo/static/js/runtime-main.298ab170.js.map",
     "static/css/2.d8cb5cde.chunk.css": "/testrepo/static/css/2.d8cb5cde.chunk.css",
-    "static/js/2.4de7b69c.chunk.js": "/testrepo/static/js/2.4de7b69c.chunk.js",
-    "static/js/2.4de7b69c.chunk.js.map": "/testrepo/static/js/2.4de7b69c.chunk.js.map",
-    "static/js/3.03b4a764.chunk.js": "/testrepo/static/js/3.03b4a764.chunk.js",
-    "static/js/3.03b4a764.chunk.js.map": "/testrepo/static/js/3.03b4a764.chunk.js.map",
+    "static/js/2.d750c71d.chunk.js": "/testrepo/static/js/2.d750c71d.chunk.js",
+    "static/js/2.d750c71d.chunk.js.map": "/testrepo/static/js/2.d750c71d.chunk.js.map",
+    "static/js/3.ecdd5785.chunk.js": "/testrepo/static/js/3.ecdd5785.chunk.js",
+    "static/js/3.ecdd5785.chunk.js.map": "/testrepo/static/js/3.ecdd5785.chunk.js.map",
     "index.html": "/testrepo/index.html",
     "static/css/2.d8cb5cde.chunk.css.map": "/testrepo/static/css/2.d8cb5cde.chunk.css.map",
-    "static/css/main.6be527f6.chunk.css.map": "/testrepo/static/css/main.6be527f6.chunk.css.map",
-    "static/js/2.4de7b69c.chunk.js.LICENSE.txt": "/testrepo/static/js/2.4de7b69c.chunk.js.LICENSE.txt",
+    "static/css/main.b57c39a5.chunk.css.map": "/testrepo/static/css/main.b57c39a5.chunk.css.map",
+    "static/js/2.d750c71d.chunk.js.LICENSE.txt": "/testrepo/static/js/2.d750c71d.chunk.js.LICENSE.txt",
+    "static/media/CenterPic.8cb4515a.png": "/testrepo/static/media/CenterPic.8cb4515a.png",
     "static/media/header.css": "/testrepo/static/media/newfont.7c5dab01.ttf",
     "static/media/join-community.css": "/testrepo/static/media/DickPix.be6bd296.png",
     "static/media/Roadmap.7d8c759b.mp4": "/testrepo/static/media/Roadmap.7d8c759b.mp4",
@@ -30,10 +31,10 @@
     "static/media/logo.326fdbba.png": "/testrepo/static/media/logo.326fdbba.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.48111d6d.js",
+    "static/js/runtime-main.298ab170.js",
     "static/css/2.d8cb5cde.chunk.css",
-    "static/js/2.4de7b69c.chunk.js",
-    "static/css/main.6be527f6.chunk.css",
-    "static/js/main.47794fc6.chunk.js"
+    "static/js/2.d750c71d.chunk.js",
+    "static/css/main.b57c39a5.chunk.css",
+    "static/js/main.8a3ecc1e.chunk.js"
   ]
 }
